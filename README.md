@@ -45,5 +45,6 @@
 6. [기찍 N](https://github.com/hb2727/BEAKJOON/blob/master/3stage/beak_2742.java)
 7. [A+B - 7](https://github.com/hb2727/BEAKJOON/blob/master/3stage/beak_11021.java)
 8. [A+B - 8](https://github.com/hb2727/BEAKJOON/blob/master/3stage/beak_11022.java)
+9. [별 찍기 - 1](https://github.com/hb2727/BEAKJOON/blob/master/3stage/beak_2438.java)
 
 </details>
