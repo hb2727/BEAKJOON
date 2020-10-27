@@ -48,3 +48,20 @@
 9. [별 찍기 - 1](https://github.com/hb2727/BEAKJOON/blob/master/3stage/beak_2438.java)
 
 </details>
+
+<details markdown="1">
+<summary> 4. while문 </summary>
+
+1. [A+B - 5](https://github.com/hb2727/BEAKJOON/blob/master/4stage/beak_10952.java)
+2. [A+B - 4](https://github.com/hb2727/BEAKJOON/blob/master/4stage/beak_10951.java)
+3. [더하기 사이클](https://github.com/hb2727/BEAKJOON/blob/master/4stage/beak_1110.java)
+
+</details>
+
+<details markdown="1">
+<summary> 5. 1차원 배열 </summary>
+
+1. [최소, 최대](https://github.com/hb2727/BEAKJOON/blob/master/5stage/beak_10818.java)
+
+
+</details>
