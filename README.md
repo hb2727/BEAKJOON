@@ -62,6 +62,6 @@
 <summary> 5. 1차원 배열 </summary>
 
 1. [최소, 최대](https://github.com/hb2727/BEAKJOON/blob/master/5stage/beak_10818.java)
-
+2. [최댓값](https://github.com/hb2727/BEAKJOON/blob/master/5stage/beak_2562.java)
 
 </details>
